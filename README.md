@@ -28,10 +28,10 @@ These are the files with the custom funtions and system calls, each one contains
 |  [`README.md`](./README.md)                   | Readme.md file	          	     |
 |  [`AUTHORS`](./AUTHORS)                       | AUTHORS file list of contributors          |
 |  ['free_list.c'](./free_list.c)    | Frees LinkList		   		             |
-|  ['linkpath.c'](./linkpath.c)      | creates a singly linked list for PATH directories     |
-|                                      adds a node in a singly linked list                   |
-|                                      creates a singly linked list for PATH directories     |
-|                                      creates a singly linked list for PATH directories     |
+|  ['linkpath.c'](./linkpath.c)      | -creates a singly linked list for PATH directories     |
+|                                    | -adds a node in a singly linked list                   |
+|                                    | -creates a singly linked list for PATH directories     |
+|                                    | -creates a singly linked list for PATH directories     |
 |  ['string.c'](./string.c)          |  prints a character,                                  |
 |                                       prints a string,                                     |
 |				       gives the length of a string                         |

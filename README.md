@@ -27,8 +27,7 @@ These are the files with the custom funtions and system calls, each one contains
 |  [`man_1_simple_shell`](./man_1_simple_shell) | Manual Page                      	     |
 |  [`README.md`](./README.md)                   | Readme.md file	          	     |
 |  [`AUTHORS`](./AUTHORS)                       | AUTHORS file list of contributors          |
-|  ['free_list.c'](./free_list.c)n   | Frees LinkList		   		             |
-|------------------------------------|-------------------------------------------------------|
+|  ['free_list.c'](./free_list.c)n   | Frees LinkList		   		             ||
 |  ['linkpath.c'](./linkpath.c)      | creates a singly linked list for PATH directories     |
 |                                    | adds a node in a singly linked list                   |
 |                                    | creates a singly linked list for PATH directories     |
@@ -39,14 +38,11 @@ These are the files with the custom funtions and system calls, each one contains
 |				     |  gives the length of a string                         |
 |			             |  copies a string in a newly allocated memory          |
 |				     |  concatenates 3 strings in a newly allocated memory   |
-|------------------------------------|-------------------------------------------------------|
 |  ['line_exec.c'](./link_exec.c)    |  splits a string into an array of words,	             |
 |  				     |  executes a command using execve,		     |
 |                                    |  reallocates a memory block,			     |
 |			             | frees a 2 dimensional array			     |
-|------------------------------------|-------------------------------------------------------|
 |  ['checkbuild.c'](./checkbuild.c)  |  checks if a command is a build-in command     	     |
-|------------------------------------|-------------------------------------------------------|
 |  ['buildin.c'](./buildin.c)        |  handles the exit buildin command                     |
 |  			      	     |  converts a string into an integer                    |
 |				     |  prints the current environment                       |

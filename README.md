@@ -143,7 +143,7 @@ Nfon Andrew Tatah  : [LinkedIn/nfon] | [GitHub/nfon] | [Twitter/nfon]
 Mofor Emmanuel
 
 [Holberton School]: <https://www.holbertonschool.com>
-[LinkedIn/nfon]: <https://https://www.linkedin.com/in/nfon-andrew-7703a11a0/>
+[LinkedIn/nfon]: <https://www.linkedin.com/in/nfon-andrew-7703a11a0/>
 [GitHub/nfon]: <https://github.com/andrew21-mch>
 [Twitter/nfon]: <https://twitter.com/nfonandrew73>
 
